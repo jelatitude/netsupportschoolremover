@@ -1,5 +1,5 @@
 rem Initialisation du titre
-title Protection Vie Privee CDI v2.0
+title Net Support School Remover v2.0
 rem Sauvegarde des variables
 setlocal EnableDelayedExpansion
 rem Couleur
@@ -22,7 +22,7 @@ call :colorEcho 0e "I"
 echo.
 call :colorEcho 0C ------------------------------------------------------------
 echo.
-echo Copyright Christophe Lavalli / 2017
+echo Copyright Jean Eudes Latitude / 2017
 echo;
 echo;
 echo Appuyez sur nimporte quelle touche pour accepter les credits
